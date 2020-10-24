@@ -41,7 +41,7 @@ gem 'gmaps4rails'
 
 gem "figaro"
 gem 'faker'
-gem 'bootstrap', '~> 5.0.0.alpha1'
+gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
 
